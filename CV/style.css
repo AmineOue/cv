@@ -1,0 +1,25 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box; 
+   background-color: #abc4e1;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#nav_bar li{
+    display: inline;
+}
+img{
+    width: 200px;
+    height: 200px;
+    text-align: end;
+    object-position: end;
+}
+
+h2{
+    color: #2569B8;
+}
+.profile_name{
+    text-align: center;
+}
